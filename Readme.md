@@ -16,7 +16,7 @@ Just putting these here so that they are easy to share and recover.
 /cast [@none] Innervate
 ~~~
 
-## Click to revive
+## Click to Rebirth
 ~~~
 #showtooltip
 /cast [@none] Rebirth
