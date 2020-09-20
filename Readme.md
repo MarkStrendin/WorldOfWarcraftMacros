@@ -32,6 +32,20 @@ Just putting these here so that they are easy to share and recover.
 
 # Druid specific
 
+## Druid sprint
+~~~
+#showtooltip
+/castsequence reset=120 Stampeding Roar, Dash
+~~~
+
+## Druid sprint (For Worgens)
+~~~
+#showtooltip
+/castsequence reset=120 Stampeding Roar, Darkflight, Dash
+~~~
+If you shift+click Darkgflight, it puts *Darkflight(Racial)*, which will not work - you must remove "(Racial)".
+Darkflight isn't as fast as dash, but it also doesn't auto-shift you to cat form.
+
 ## Wild Charge
 This macro prompts you to click someone (to fly to) if you are in caster form, and just casts Wild Charge if you are in bear or cat form.
 ~~~
