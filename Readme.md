@@ -30,6 +30,8 @@ Just putting these here so that they are easy to share and recover.
 /cast [@none] Growl
 ~~~
 
+Allows you to Growl without deselecting your current target - for adds, etc.
+
 # Druid specific
 
 ## Druid sprint
