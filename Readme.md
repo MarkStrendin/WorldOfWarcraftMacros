@@ -31,6 +31,7 @@ Just putting these here so that they are easy to share and recover.
 ~~~
 
 Allows you to Growl without deselecting your current target - for adds, etc.
+Replace "Growl" with whatever provoke ability you have.
 
 # Druid specific
 
@@ -59,6 +60,13 @@ This macro prompts you to click someone (to fly to) if you are in caster form, a
 ~~~
 #showtooltip
 /cast [form:1] Growl ; Bear Form(Shapeshift)
+~~~
+
+## Click to Regrowth
+For free cat form regrowths from Predatory Swiftness. Allows you to cast without deselecting your current target.
+~~~
+#showtooltip
+/cast [@none] Growl
 ~~~
 
 # General
